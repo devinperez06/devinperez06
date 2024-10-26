@@ -1,5 +1,9 @@
-## Hi there 👋
+## Hi there, My name is Devin Perez 👋
 
+## I'm currently learning
+
+<img src="https://github.com/devinperez06/devinperez06/blob/main/images/java-icon-1511x2048-6ikx8301.png" width = "150" height = "150" /> <img src="https://github.com/devinperez06/devinperez06/blob/main/images/4518857_python_icon.png" width = "150" height = "150" />
+<img src="https://github.com/devinperez06/devinperez06/blob/main/images/html-5.png" width = "150" height = "150" /> <img src="https://github.com/devinperez06/devinperez06/blob/main/images/javascript-js-icon-2048x2048-nyxvtvk0.png" width = "150" height = "150" /> <img src= "https://github.com/devinperez06/devinperez06/blob/main/images/css-3.png" width = "150" height = "150" /> 
 <!--
 **devinperez06/devinperez06** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
