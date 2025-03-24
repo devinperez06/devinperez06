@@ -1,7 +1,7 @@
 ## Hi there, My name is Devin Perez 👋
 
 ## 🙋 About me
-I am a freshman CS student studying at SUNY New Paltz. I am extremely interested in software engineering and game development. I was born in America but, I am also Ecuadorian and Cuban. My outside hobbies include playing guitar and spending lots of time with my beautiful girlfriend. 
+I am a Sophomore CS student studying at SUNY New Paltz. I am extremely interested in software engineering and game development. I was born in America but, I am also Ecuadorian and Cuban. My outside hobbies include playing guitar and spending lots of time with my beautiful girlfriend. 
 
 ## I'm currently learning
 
